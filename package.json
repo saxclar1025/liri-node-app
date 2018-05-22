@@ -1,5 +1,5 @@
 {
-  "name": "Homework-10",
+  "name": "homework-10",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,14 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxclar1025/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saxclar1025/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/saxclar1025/liri-node-app#readme"
 }
